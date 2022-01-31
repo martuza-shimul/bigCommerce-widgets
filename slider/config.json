@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "imageUrl": {
+        "src": "https://picsum.photos/200",
+        "type": "IMAGE_MANAGER"
+      }
+    },
+    {
+      "imageUrl": {
+        "src": "https://picsum.photos/200",
+        "type": "IMAGE_MANAGER"
+      }
+    },
+    {
+      "imageUrl": {
+        "src": "https://picsum.photos/200",
+        "type": "IMAGE_MANAGER"
+      }
+    }
+  ]
+}
